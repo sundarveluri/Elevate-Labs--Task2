@@ -1,6 +1,6 @@
 # Elevate-Labs--Task2
 
-Features
+Features:
 
 Add Student: Add a new student with ID, name, and marks.
 
@@ -12,7 +12,7 @@ Delete Student: Remove a student record by ID.
 
 Exit: Terminate the program.
 
-Project Structure
+Project Structure:
 
 Student.java: Defines the Student class with fields (ID, name, marks) and getters/setters.
 
@@ -20,7 +20,7 @@ StudentManagementSystem.java: Implements CRUD operations using an ArrayList to m
 
 Main.java: Contains the CLI menu and handles user input.
 
-Usage
+Usage:
 
 Choose options 1–5 from the menu to manage student records.
 
